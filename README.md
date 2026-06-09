@@ -127,7 +127,7 @@ https://youtu.be/lSc-KZsAjAk
 
 - Keyboard Layout Analyzerを使った比較: https://github.com/funatsufumiya/jisgeta_research_archive/blob/main/1.md
 - 日本語キー配列アナライザーを使った比較: https://github.com/funatsufumiya/jisgeta_research_archive/blob/main/2.md
-    - 記事中で使った解析器: https://funatsufumiya.github.io/keyboard_analyzer_jisgeta_static/
+    - 記事中で使った解析器: https://ffunatsu.github.io/keyboard_analyzer_jisgeta_static/
         - (ソースコード: https://github.com/funatsufumiya/keyboard_analyzer_jisgeta)
 
 ## 仕様の解説
