@@ -2,7 +2,7 @@
 
 [![GitHub Latest Release)](https://img.shields.io/github/v/release/funatsufumiya/jis_geta?logo=github&v5)](https://github.com/funatsufumiya/jis_geta/releases)
 
-JIS + 新下駄 = JIS下駄配列。
+JIS + 新下駄 = JIS下駄。
 
 > [!Warning]
 > 名前に「JIS」とありますが、JIS配列（かな入力）を元にしただけで、JIS規格に準じているわけではありません。<br>
