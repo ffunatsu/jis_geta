@@ -126,10 +126,10 @@ https://youtu.be/lSc-KZsAjAk
 
 ## 各種計測データなど
 
-- Keyboard Layout Analyzerを使った比較: https://github.com/funatsufumiya/jisgeta_research_archive/blob/main/1.md
-- 日本語キー配列アナライザーを使った比較: https://github.com/funatsufumiya/jisgeta_research_archive/blob/main/2.md
+- Keyboard Layout Analyzerを使った比較: https://github.com/ffunatsu/jisgeta_research_archive/blob/main/1.md
+- 日本語キー配列アナライザーを使った比較: https://github.com/ffunatsu/jisgeta_research_archive/blob/main/2.md
     - 記事中で使った解析器: https://ffunatsu.github.io/keyboard_analyzer_jisgeta_yazgi_static/
-        - (ソースコード: https://github.com/funatsufumiya/keyboard_analyzer_jisgeta_yazgi)
+        - (ソースコード: https://github.com/ffunatsu/keyboard_analyzer_jisgeta_yazgi)
 
 ## 仕様の解説
 
